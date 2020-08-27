@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/bg_index.png");
+  background-repeat: repeat;
+  background-origin: padding-box;
+  background-position: 50% 0%;
+  cursor: auto;
+  }
+  #nav_img{
+    background-image: url("../public_html/img/E-se1.png");
+    /* background-repeat: repeat; */
+    background-origin: padding-box;
+    background-position: 50% 0%;
+    cursor: auto;
+  }

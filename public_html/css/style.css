@@ -1,0 +1,20 @@
+body {
+  background-image: url("../img/bg_index.png");
+  background-repeat: repeat;
+  background-origin: padding-box;
+  background-position: 50% 0%;
+  cursor: auto;
+  }
+  .img-fluid-cover {
+    width: 100%;
+    height: auto;
+}
+.bg-custom,.btn-custom{
+  background-color:#234f79;
+  color:white;
+}
+.btn-custom:hover{
+  color:white;
+}
+
+
